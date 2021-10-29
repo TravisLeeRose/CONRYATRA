@@ -1,2 +1,2 @@
 # CONRYATRA
-Connor Park, Ryan Graves, Travis Rose
+Conor Park, Ryan Graves, Travis Rose
